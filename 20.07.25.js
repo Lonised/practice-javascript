@@ -21,3 +21,5 @@ let study = "medicine"
 console.log("In 2025 year " + name + "graduated in " + study);
 console.log(`In 2025 year, ${name} graduated in ${study}`);
 
+
+
