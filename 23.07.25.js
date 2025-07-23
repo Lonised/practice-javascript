@@ -4,4 +4,4 @@ user = {
     skills: ['HTML','Css', 'JavaScript']
 }
 
-console.log(user(skills))
+console.log(user(skills)) 
