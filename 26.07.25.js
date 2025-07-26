@@ -10,3 +10,4 @@ function Math(mathSum, mathMin) {
 }
 
 
+ 
