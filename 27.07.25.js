@@ -4,7 +4,7 @@ function sayHello() {
 }
 
 sayHello()
-
+ 
 function sum(a,b) {
     console.log(a + b);
     
